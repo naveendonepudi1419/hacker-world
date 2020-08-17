@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/naveendonepudi1419/hackerworld/blob/master/logo.png?raw=true" /></p>
+<p align="center"><img src="https://github.com/naveendonepudi1419/hacker-world/blob/master/logo.jpeg?raw=true" /></p>
 
 <p align="center">***Pentesing Tools That All Hacker Needs.***</p>
 
