@@ -127,7 +127,7 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 That's It... If You Like This Repo. Please Share This With Your Friends..
 
-& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/naveendonepudi1419), [Instagram](https://www.instagram.com/naveendonepudi1419), [Github](https://www.github.com/naveendonepudi1419) & SUBSCRIBE My [YouTube](https://www.youtube.com/channel/UCGURaSlQ3YNn7oEH3fG_4ZA) Channel..!!!
+& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/DonepudiNaveen), [Instagram](https://www.instagram.com/naveendonepudi1419), [Github](https://www.github.com/naveendonepudi1419) & SUBSCRIBE My [YouTube](https://www.youtube.com/channel/UCGURaSlQ3YNn7oEH3fG_4ZA) Channel..!!!
 
 ***Thankyou.***
 ***Keep Visiting..***
