@@ -96,7 +96,7 @@ This Tool Must Run As ROOT !!!
 
 ```git clone https://github.com/naveendonepudi1419/hackerworld.git```
 
-```cd hackerworld```
+```cd hacker-world```
 
 ```chmod +x install.sh```
 
