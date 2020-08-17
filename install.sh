@@ -33,11 +33,11 @@ read INPUT
 echo ""
 
 if [ "$PREFIX" = "/data/data/com.termux/files/usr" ]; then
-    INSTALL_DIR="$PREFIX/usr/share/doc/hackerworld"
+    INSTALL_DIR="$PREFIX/usr/share/doc/hacker-world"
     BIN_DIR="$PREFIX/usr/bin/"
     pkg install -y git python2
 else
-    INSTALL_DIR="/usr/share/doc/hackerworld"
+    INSTALL_DIR="/usr/share/doc/hacker-world"
     BIN_DIR="/usr/bin/"
 fi
 
@@ -54,7 +54,7 @@ fi
 
 echo "[✔] Installing ...";
 echo "";
-git clone https://github.com/naveendonepudi1419/hackerworld.git "$INSTALL_DIR";
+git clone https://github.com/naveendonepudi1419/hacker-world.git "$INSTALL_DIR";
 echo "#!/bin/bash
 python $INSTALL_DIR/hackerworld.py" '${1+"$@"}' > hackerworld;
 chmod +x hackerworld;
